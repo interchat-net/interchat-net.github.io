@@ -44,6 +44,7 @@ body {
 /* Layout for the icons section */
 .downloads {
     display: flex;
+    align-items: baseline;
     gap: 50px; /* Slightly wider gap to accommodate text */
     margin-top: 40px; 
 }
